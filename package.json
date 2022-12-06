@@ -1,0 +1,15 @@
+{
+  "name": "pdfwala",
+  "version": "1.0.0",
+  "description": "PDF kit for manupulating pdf content",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rawal Suthar",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {}
+}
