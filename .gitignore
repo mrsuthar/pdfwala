@@ -1,0 +1,38 @@
+# Node.js dependencies
+/node_modules
+/package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Testing and coverage reports
+/coverage
+.nyc_output
+
+# Ignore npm debug file
+npm-debug.log*
